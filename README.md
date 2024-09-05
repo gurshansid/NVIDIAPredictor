@@ -1,7 +1,7 @@
 <h1>NVIDIA Stock Predictor</h1>
 
 <h2>Description</h2>
-This is a price prediction model for NVIDIA's stock price I built in Jupyter Lab. The model uses predictors like opening price, closing price, volume, daily high, and daily low. Along with these predictors, I imporved the model using The model uses NVIDIA's price data from 2000 to the current day. 
+This is a price prediction model for NVIDIA's stock price I built in Jupyter Notebook. The model uses predictors like opening price, closing price, volume, daily high, and daily low. Along with these predictors, I imporved the model using The model uses NVIDIA's price data from 2000 to the current day. 
 <br />
 
 
@@ -15,7 +15,7 @@ This is a price prediction model for NVIDIA's stock price I built in Jupyter Lab
 
 <h2>Environments Used </h2>
 
-- <b>Jupyter Lab</b>
+- <b>Jupyter Notebook</b>
 <!--
  ```diff
 - text in red
